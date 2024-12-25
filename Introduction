@@ -18,6 +18,8 @@ that ip address in its database , DNS will return all data-files to the browser 
 
 **HOW INTERNET WORKS ?**
 
-Server send data-files of website which is requested in three format html , css , javascript . Where HTML give the structure of the website , CSS is for decorating giving colors and style , and javascript is used to make it dynamic .
+Server send data-files of website which is requested in three format html , css , javascript . Where HTML give the structure of the website , CSS is for decorating giving colors and style , and javascript is used to make it dynamic(functionality) .
+
+
 
 
