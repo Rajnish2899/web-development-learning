@@ -1,0 +1,23 @@
+**How does internet works ?**
+
+Internet is like a long piece of wire with which different computers are connected . All computers talks 
+to each other using this long wire . 
+
+some of computers have a very special work and for that they have to be ON all the time.They are ready to 
+serve all data-files which someone is requesting , these computers are called SERVERS .whose work is to
+serve all data-files that is requested for , those who are requesting is  known as CLIENT.
+
+
+when someone search for certain website , browser sent that request to ISP (INTERNET SERVICE PROVIDER) 
+these are they who pay to access the internet . So , browser send request that it want to access certain
+website to ISP . ISP  send that request to DNS server (DOMAIN NAME SERVER) which can be understand as
+PHONEBOOK.
+DNS will start searching for the IP address of the website for which ISP has requested . After getting
+that ip address in its database , DNS will return all data-files to the browser through ISP.
+
+
+**HOW INTERNET WORKS ?**
+
+Server send data-files of website which is requested in three format html , css , javascript . Where HTML give the structure of the website , CSS is for decorating giving colors and style , and javascript is used to make it dynamic .
+
+
